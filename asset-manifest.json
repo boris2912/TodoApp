@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/.github.io/TodoApp/static/css/main.aa5ce5fd.css",
-    "main.js": "/.github.io/TodoApp/static/js/main.38406abe.js",
-    "static/media/bg-desktop-light.jpg": "/.github.io/TodoApp/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
-    "static/media/bg-desktop-dark.jpg": "/.github.io/TodoApp/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
-    "index.html": "/.github.io/TodoApp/index.html",
-    "static/media/icon-sun.svg": "/.github.io/TodoApp/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
-    "static/media/icon-moon.svg": "/.github.io/TodoApp/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
-    "static/media/icon-cross.svg": "/.github.io/TodoApp/static/media/icon-cross.6ee81d30b75cab19d6f7314624fcc4d6.svg",
-    "static/media/icon-check.svg": "/.github.io/TodoApp/static/media/icon-check.a8fb15d0278c8e312df5.svg",
-    "main.aa5ce5fd.css.map": "/.github.io/TodoApp/static/css/main.aa5ce5fd.css.map",
-    "main.38406abe.js.map": "/.github.io/TodoApp/static/js/main.38406abe.js.map"
+    "main.css": "/TodoApp/static/css/main.21f72024.css",
+    "main.js": "/TodoApp/static/js/main.8a0b0c1d.js",
+    "static/media/bg-desktop-light.jpg": "/TodoApp/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/TodoApp/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/TodoApp/index.html",
+    "static/media/icon-sun.svg": "/TodoApp/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
+    "static/media/icon-moon.svg": "/TodoApp/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
+    "static/media/icon-cross.svg": "/TodoApp/static/media/icon-cross.6ee81d30b75cab19d6f7314624fcc4d6.svg",
+    "static/media/icon-check.svg": "/TodoApp/static/media/icon-check.a8fb15d0278c8e312df5.svg",
+    "main.21f72024.css.map": "/TodoApp/static/css/main.21f72024.css.map",
+    "main.8a0b0c1d.js.map": "/TodoApp/static/js/main.8a0b0c1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa5ce5fd.css",
-    "static/js/main.38406abe.js"
+    "static/css/main.21f72024.css",
+    "static/js/main.8a0b0c1d.js"
   ]
 }
